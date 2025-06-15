@@ -1,0 +1,13 @@
+#
+# gp-cyber-deck-hardware
+# Copyright (c) 2025, Greg PFISTER. MIT Licences.
+#
+
+# Kicad
+*backups/
+*.lck
+~*
+_*
+fp-info-cache
+sym-lib-table
+*.bak
